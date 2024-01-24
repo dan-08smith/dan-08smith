@@ -23,3 +23,10 @@ You can reach me on LinkedIn below.
   <a href="https://www.linkedin.com/in/dansmith08/"  target="_blank" rel="noreferrer noopener">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </p>
+
+### Languages and Tools
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt=python> Python
+  
+</p>
