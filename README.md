@@ -20,6 +20,6 @@ I'm currently studying Computer Science at the University of York.
 You can reach me on LinkedIn below.
 
 <p>
-  <a href="https://www.linkedin.com/in/dansmith08/" rel="nofollow noreferrer" target="_blank">
+  <a href="https://www.linkedin.com/in/dansmith08/"  target="_blank" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </p>
