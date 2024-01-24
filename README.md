@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 I'm currently studying Computer Science at the University of York.
 
 ### Contact Me
-You can reach me on LinkedIn 
+You can reach me on LinkedIn below.
 
 <p>
-  <a href="https://www.linkedin.com/in/dansmith08/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/dansmith08/" rel="nofollow noreferrer" target="_blank">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </p>
