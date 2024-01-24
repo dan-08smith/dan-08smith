@@ -29,6 +29,6 @@ You can reach me on LinkedIn below.
 <p>
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt=python>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt=sqlite>
-  <img src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg" alt=haskell>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt=azure>
+  <img src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg" alt=haskell>
 </p>
