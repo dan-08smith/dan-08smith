@@ -17,6 +17,11 @@ I'm in my first year of studying Computer Science at University.
 
 I am currently developing my understanding of HTML, CSS, and JavaScript - to help assist me with Web Development.
 
+<p>
+  <a href="https://dan-08smith.github.io/" target="_blank" rel="noreferrer noopener">
+    My Portfolio Website
+</p>
+
 ### Contact Me
 You can reach me on LinkedIn below.
 
