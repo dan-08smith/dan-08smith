@@ -33,8 +33,12 @@ You can reach me on LinkedIn below.
 ### Languages and Tools
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt=python>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt=sqlite>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt=azure>
-  <img src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg" alt=haskell>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure">
+  <img src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg" alt="haskell">
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js">
 </p>
