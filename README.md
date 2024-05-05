@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### About Me
 I'm in my first year of studying Computer Science at University.
 
-I am currently developing my understanding of HTML, CSS, and JavaScript - to help assist me with Web Development.
+I am currently developing my understanding of HTML, CSS, and JavaScript. To do so, I have been constructing a portfolio website which can be seen by clicking the link below:
 
 <p>
   <a href="https://dan-08smith.github.io/" target="_blank" rel="noreferrer noopener">
